@@ -11,5 +11,6 @@ function length(array){
     return length;
 };
 
-length(array1)
-console.log(array2)
+length(array1);
+console.log(array2);
+//uf nfsg 
